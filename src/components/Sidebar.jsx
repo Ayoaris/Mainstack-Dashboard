@@ -2,7 +2,7 @@ import {useState} from "react"
 import { navContent } from "./data";
 import { navContent2 } from "./data";
 import { navContent3 } from "./data";
-import NavItem from "./Navitem";
+import NavItem from "./NavItem";
 import NavItemMobile from "./NavItemMobile";
 import useMediaQuery from "./hooks/UseMediaQuery";
 import Logo from "../assets/logo.svg";
@@ -21,7 +21,7 @@ const SideBar = () => {
             <img src={Logo} alt="Mainstack-logo" />
           </div>
 
-          <div className="mt-8">
+          <div className="mt-8 ">
             {navContent.map((item) => (
               <NavItem key={item.id} item={item} />
             ))}

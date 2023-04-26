@@ -11,16 +11,15 @@ const NavItem = ({ item }) => {
         <div
           className={`flex gap-x-4 items-center ${
             path === item.path &&
-            "text-[#FF5403]  text-base w-full pl-4 rounded-lg"
+            "text-[#FF5403] text-base w-full "
           }`}
         >
           <div>
             <img
               src={item.icon}
-              alt=""
-              className={`flex gap-x-4 items-center pl-4 py-2 my-2 w-12/12 ${
-                path === item.path &&
-                "text-[#FF5403]  text-base w-full pl-4 rounded-lg"
+              alt="icon"
+              className={`flex gap-x-4 items-center  py-2 my-2 w-12/12 ${
+                path === item.path && "text-[#FF5403]  text-base w-full "
               }`}
             />
           </div>
