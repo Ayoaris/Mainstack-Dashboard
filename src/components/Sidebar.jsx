@@ -2,7 +2,7 @@ import {useState} from "react"
 import { navContent } from "./data";
 import { navContent2 } from "./data";
 import { navContent3 } from "./data";
-import NavItem from "./NavItem";
+import NavItem from "./Navitem";
 import NavItemMobile from "./NavItemMobile";
 import useMediaQuery from "./hooks/UseMediaQuery";
 import Logo from "../assets/logo.svg";
