@@ -1,6 +1,6 @@
 import Profile from "../components/Profile";
 import SideBar from "../components/Sidebar";
-import LineChart from "../components/charts/lineChart";
+import LineChart from "../components/Charts/lineChart";
 import TopLocations from "../components/TopLocations";
 import TopReferralSource from "../components/TopReferralSource";
 
