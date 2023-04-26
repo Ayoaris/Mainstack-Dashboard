@@ -24,7 +24,7 @@ function Profile() {
       </p>
 
       <div className=" lg:flex lg:gap-4 py-8">
-        <div className="px-4 py-3 border border-[#EFF1F6] hover:border-[#FF5403] hover:bg-[#FFEEE5]  hover:text-[#FF5403]  rounded-3xl ">
+        <div className="px-4 py-3 border border-[#EFF1F6] hover:border-[#FF5403] hover:bg-[#FFEEE5]  rounded-3xl ">
           <p className="text-[#31373D]  hover:text-[#FF5403] text-sm font-semibold ">
             1 Day
           </p>

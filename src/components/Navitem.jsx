@@ -9,7 +9,7 @@ const NavItem = ({ item }) => {
     <div>
       <NavLink to={item.path}>
         <div
-          className={`flex gap-x-4 items-center pl-4 py-2 my-2 w-12/12 ${
+          className={`flex gap-x-4 items-center ${
             path === item.path &&
             "text-[#FF5403]  text-base w-full pl-4 rounded-lg"
           }`}
