@@ -6,7 +6,7 @@ import NavItem from "./NavItem";
 import NavItemMobile from "./NavItemMobile";
 import useMediaQuery from "./hooks/UseMediaQuery";
 import Logo from "../assets/logo.svg";
-import {GiHamburgerMenu} from "react-icons/gi";
+import { GiHamburgerMenu } from "react-icons/gi";
 import { TbDots } from "react-icons/tb";
 import profilePic from "../assets/profilePic.svg";
 
