@@ -6,7 +6,7 @@ function Item3() {
         <SideBar />
       </div>
       <div className="flex-1 bg-[#FFEEE5] px-6 pt-4 pb-8 ">
-        <h1 className="text-4xl">Item3</h1>
+        <h1 className="text-4xl">Item 3</h1>
       </div>
     </div>
   );

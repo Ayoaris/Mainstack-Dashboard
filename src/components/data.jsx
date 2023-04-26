@@ -19,19 +19,19 @@ export const navContent = [
     id: 2,
     path: "/item1",
     icon: item1icon,
-    text: "Item1",
+    text: "Item 1",
   },
   {
     id: 3,
     path: "/item2",
     icon: item2icon,
-    text: "Item2",
+    text: "Item 2",
   },
   {
     id: 4,
     path: "/item3",
     icon: item3icon,
-    text: "Item3",
+    text: "Item 3",
   },
 ];
 
@@ -40,13 +40,13 @@ export const navContent2 = [
     id: 5,
     path: "/item4",
     icon: item4icon,
-    text: "Item4",
+    text: "Item 4",
   },
   {
     id: 6,
     path: "/item5",
     icon: item5icon,
-    text: "Item5",
+    text: "Item 5",
   },
 ];
 
@@ -55,18 +55,18 @@ export const navContent3 = [
     id: 7,
     path: "/item6",
     icon: item6icon,
-    text: "Item6",
+    text: "Item 6",
   },
   {
     id: 8,
     path: "/item7",
     icon: item7icon,
-    text: "Item7",
+    text: "Item 7",
   },
   {
     id: 9,
     path: "/item8",
     icon: item8icon,
-    text: "Item8",
+    text: "Item 8",
   },
 ];

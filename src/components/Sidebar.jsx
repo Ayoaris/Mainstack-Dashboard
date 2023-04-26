@@ -48,7 +48,7 @@ const SideBar = () => {
                 height="50px"
                 className=" rounded-full"
               />
-              <p className="text-center mx-2 ">Blessing Daniels</p>
+              <p className="text-center mx-2 w-full">Blessing Daniels</p>
             </div>
 
             <div className="flex items-center ">
